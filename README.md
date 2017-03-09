@@ -94,7 +94,3 @@ http://www.sina.com.cn
 参考: http://docs.python.org/2/library/logging.html  
 参考: http://kenby.iteye.com/blog/1162698  
 参考: http://my.oschina.net/leejun2005/blog/126713
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/caimaoy/good-coder-python/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
